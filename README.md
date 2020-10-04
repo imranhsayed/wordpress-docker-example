@@ -1,4 +1,4 @@
-## 🎨 Next.js Headless WordPress
+## 🎨 WordPress Docker Example
 [![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![Stars](https://img.shields.io/github/stars/imranhsayed/wordpress-docker-example?label=%E2%AD%90%20Stars)
 ![Forks](https://img.shields.io/github/forks/imranhsayed/wordpress-docker-example?color=%23ff69b4)
