@@ -1,0 +1,5 @@
+*
+!composer*
+!.htaccess
+!docker-compose.yml
+!README.md
